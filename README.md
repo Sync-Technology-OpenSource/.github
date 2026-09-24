@@ -1,4 +1,3 @@
-# .github
 <div align="center">
   <h1>Sync Technology OpenSource</h1>
   <p><b>Open-source software, accessibility tools, and digital infrastructure by Sync Technology.</b></p>
