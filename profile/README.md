@@ -1,7 +1,15 @@
-<div align="center">
-  <img src="https://assets.sync-technology.fr/assets/logos/Sync%20Technology.png" alt="Logo de l'entreprise Sync Technology">
-  <h1>Sync Technology OpenSource</h1>
-  <p><b>Open-source software, accessibility tools, and digital infrastructure by Sync Technology.</b></p>
+<div class="container text-center my-5">
+  <!-- Logo de l'entreprise -->
+  <img src="https://assets.sync-technology.fr/assets/logos/Sync%20Technology.png" 
+       alt="Logo de l'entreprise Sync Technology" 
+       class="img-fluid" 
+       style="max-width: 250px; height: auto;">
+       
+  <!-- Titres et descriptions -->
+  <h1 class="mt-4 fw-bold">Sync Technology OpenSource</h1>
+  <p class="lead text-muted">
+    Open-source software, accessibility tools, and digital infrastructure by Sync Technology.
+  </p>
 </div>
 
 ---
