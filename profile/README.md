@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://assets.sync-technology.fr/assets/logos/Sync%20Technology.png" alt="Logo de l'entreprise Sync Technology">
   <h1>Sync Technology OpenSource</h1>
   <p><b>Open-source software, accessibility tools, and digital infrastructure by Sync Technology.</b></p>
 </div>
